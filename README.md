@@ -1,19 +1,9 @@
-<img align='right'  src="https://source.unsplash.com/random/500x100">
-
-
 ### Hi there I'm Andrés :lemon:
 
-[![csdn](https://img.shields.io/badge/-csdn-c14438?style=flat-square&logo=c&logoColor=white)](https://blog.csdn.net/qq_15807167)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:houshuai0816@gmail.com)
-
-🚀Welcome to the rain planet🌎
-
-![houshuai github stats](https://source.unsplash.com/random/800x500)
-
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:ahduvvuri@gmail.com)
 
 📊 **This week I spent my time on**
 
-<img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=vebrasmusic&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 <img align='right'   width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vebrasmusic">
 
 <!--START_SECTION:waka-->
