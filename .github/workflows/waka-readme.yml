@@ -1,7 +1,6 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # for manual workflow trigger
   schedule:
     - cron: "*/5 * * * *" # runs at every 12AM UTC
 
@@ -12,7 +11,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           CODE_LANG: python
           # following flags are required, only if this is not on
