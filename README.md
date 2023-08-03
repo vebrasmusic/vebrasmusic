@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 26 July 2023 - To: 02 August 2023
+From: 27 July 2023 - To: 03 August 2023
 
-Python       6 hrs 31 mins   █████████████████▒░░░░░░░   69.18 %
-JavaScript   1 hr 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-Docker       43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Markdown     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-CSV          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Python       5 hrs 22 mins   ██████████████████░░░░░░░   72.45 %
+Docker       43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+JavaScript   38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Markdown     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
