@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 30 July 2023 - To: 06 August 2023
+From: 31 July 2023 - To: 07 August 2023
 
-JSON         1 hr 51 mins    ██████████████▓░░░░░░░░░░   58.17 %
-Python       41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-Markdown     18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-JavaScript   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-TypeScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+JSON         1 hr 51 mins    █████████████████████▒░░░   85.57 %
+JavaScript   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+TypeScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
