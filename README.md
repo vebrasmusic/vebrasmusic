@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 August 2023 - To: 09 August 2023
+From: 03 August 2023 - To: 10 August 2023
 
 YAML         2 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   40.05 %
 JSON         1 hr 51 mins    ████████░░░░░░░░░░░░░░░░░   32.58 %
