@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-TypeScript   3 hrs 13 mins   ████████████▓░░░░░░░░░░░░   50.77 %
-JavaScript   2 hrs 5 mins    ████████▒░░░░░░░░░░░░░░░░   32.80 %
-YAML         59 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TypeScript   9 hrs 55 mins   ██████████████████▓░░░░░░   74.56 %
+JavaScript   2 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+YAML         1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+TSConfig     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
