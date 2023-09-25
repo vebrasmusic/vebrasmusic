@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 17 September 2023 - To: 24 September 2023
+From: 18 September 2023 - To: 25 September 2023
 
-Python       8 hrs 14 mins   ████████▓░░░░░░░░░░░░░░░░   34.05 %
-TypeScript   6 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-JavaScript   4 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
-Text         1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Docker       1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Python       8 hrs 15 mins   ██████████▓░░░░░░░░░░░░░░   42.44 %
+TypeScript   4 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+JavaScript   2 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
+Text         1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Docker       1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
 ```
 
 <!--END_SECTION:waka-->
