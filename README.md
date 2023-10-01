@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 23 September 2023 - To: 30 September 2023
+From: 24 September 2023 - To: 01 October 2023
 
-Text         1 hr 22 mins    ████████▒░░░░░░░░░░░░░░░░   32.91 %
-TypeScript   1 hr 4 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
-Python       59 mins         ██████░░░░░░░░░░░░░░░░░░░   23.50 %
-JavaScript   30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
-GDScript3    8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Text         43 mins         ███████▒░░░░░░░░░░░░░░░░░   29.52 %
+Python       29 mins         █████░░░░░░░░░░░░░░░░░░░░   19.89 %
+TypeScript   28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
+JavaScript   27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
+YAML         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
 ```
 
 <!--END_SECTION:waka-->
