@@ -20,7 +20,6 @@ jobs:
           SHOW_TOTAL: true # optional
           LANG_COUNT: 10
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
 
