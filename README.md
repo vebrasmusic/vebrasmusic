@@ -5,7 +5,7 @@
 ```python
 From: 02 March 2024 - To: 01 April 2024
 
-Total Time: 21 hrs 51 mins
+Total Time: 21 hrs 40 mins
 
 TypeScript   9 hrs 30 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.51 %
 Python       4 hrs 23 mins   ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.09 %
