@@ -15,6 +15,15 @@ jobs:
           WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           CODE_LANG: python
+          TIME_RANGE: last_30_days
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          LANG_COUNT: 10
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_MASKED_TIME: true # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: YAML JSON TOML # optional
+
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
