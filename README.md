@@ -1,4 +1,4 @@
-### Hi there I'm Andrés :lemon:
+### Hi there I'm Andrés 
 
 <!--START_SECTION:waka-->
 
