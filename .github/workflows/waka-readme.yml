@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "0 12 * * *"
  # runs at every 12AM UTC
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
           LANG_COUNT: 10
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          IGNORED_LANGUAGES: YAML JSON TOML TXT CONFIG # optional
 
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
