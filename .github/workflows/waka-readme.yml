@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "12 12 * * *"
  # runs at every 12AM UTC
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
           TIME_RANGE: last_30_days
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          LANG_COUNT: 10
+          LANG_COUNT: 6
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML TXT CONFIG # optional
