@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "12 12 * * *"
+    - cron: "00 17 * * *"
  # runs at every 12AM UTC
 
 jobs:
@@ -15,10 +15,10 @@ jobs:
           WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           CODE_LANG: java
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          LANG_COUNT: 4
+          LANG_COUNT: 5
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML TXT CONFIG MDX # optional
