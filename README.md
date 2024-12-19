@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```java
-From: 17 November 2024 - To: 17 December 2024
+From: 18 November 2024 - To: 18 December 2024
 
-Total Time: 93 hrs 58 mins
+Total Time: 95 hrs 18 mins
 
-TypeScript       69 hrs 6 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   73.38 %
-Python           12 hrs 56 mins  ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.74 %
-JavaScript       9 hrs 27 mins   ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.04 %
+TypeScript       69 hrs 54 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   73.21 %
+Python           13 hrs 23 mins  ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.02 %
+JavaScript       9 hrs 27 mins   ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.91 %
 ```
 
 <!--END_SECTION:waka-->
