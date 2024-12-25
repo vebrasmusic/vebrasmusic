@@ -14,11 +14,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          CODE_LANG: java
+          CODE_LANG: javascript
           TIME_RANGE: last_30_days
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          LANG_COUNT: 3
+          LANG_COUNT: 4
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML TXT CONFIG MDX DOCKERFILE # optional
