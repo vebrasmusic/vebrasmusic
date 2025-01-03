@@ -18,7 +18,7 @@ jobs:
           TIME_RANGE: last_30_days
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          LANG_COUNT: 4
+          LANG_COUNT: 5
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML TXT CONFIG MDX DOCKERFILE # optional
