@@ -16,9 +16,9 @@ jobs:
           WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           CODE_LANG: javascript
-          TIME_RANGE: all_time
+          TIME_RANGE: last_6_months
           SHOW_TIME: false # optional
-          SHOW_TOTAL: true # optional
+          SHOW_TOTAL: false # optional
           LANG_COUNT: 5
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           STOP_AT_OTHER: true # optional
