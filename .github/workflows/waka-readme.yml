@@ -22,7 +22,7 @@ jobs:
           LANG_COUNT: 5
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML TXT CONFIG MDX DOCKERFILE # optional
+          IGNORED_LANGUAGES: YAML JSON TOML TXT CONFIG MDX DOCKERFILE JAVASCRIPT # optional
 
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
