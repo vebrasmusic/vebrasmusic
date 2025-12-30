@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 29 June 2025 - To: 28 December 2025
+From: 30 June 2025 - To: 29 December 2025
 
 TypeScript                        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.79 %
 Python                            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.75 %
